@@ -1,5 +1,5 @@
 # Project-gym
-Efecto Hover sobre cards. (mini-proyecto NO RESPONSIVE).
-## Tecnologías utilizadas:
+Effect Hover over cards. (mini-project).
+## Technologies used:
 ### :computer: HTML
-### :art: CSS
+### :art: CSS (no responsive)
